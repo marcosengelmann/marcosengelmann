@@ -11,6 +11,9 @@ Atualmente estou estudando e me familiarizando com as seguintes tecnologias:
 - **Front-end:** `HTML`, `CSS`
 - **Ferramentas:** `Git`, `GitHub`, `VS Code`
 
+## 🚀 Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,c)](https://skillicons.dev)
+  
 ## 📚 Projetos
 Estou trabalhando em projetos acadêmicos e pessoais para aprimorar minhas habilidades. Em breve, compartilharei repositórios aqui!
 
