@@ -7,11 +7,11 @@
 
 ## 🚀 Habilidades em Desenvolvimento
 Atualmente estou estudando e me familiarizando com as seguintes tecnologias:
-- **Linguagens:** `JavaScript`
+- **Linguagens:** `JavaScript`, `C`
 - **Front-end:** `HTML`, `CSS`
 - **Ferramentas:** `Git`, `GitHub`, `VS Code`
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias que Uso
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,c)](https://skillicons.dev)
   
 ## 📚 Projetos
