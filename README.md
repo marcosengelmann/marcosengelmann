@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Marcos Engelmann!
 
-<!--
-**marcosengelmann/marcosengelmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre Mim
+- **Nome:** Marcos Engelmann
+- **Formação:** Estudante de **Análise e Desenvolvimento de Sistemas** (1° Período)
+- **Objetivo:** Aprender e evoluir constantemente no mundo da programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades em Desenvolvimento
+Atualmente estou estudando e me familiarizando com as seguintes tecnologias:
+- **Linguagens:** `JavaScript`
+- **Front-end:** `HTML`, `CSS`
+- **Ferramentas:** `Git`, `GitHub`, `VS Code`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projetos
+Estou trabalhando em projetos acadêmicos e pessoais para aprimorar minhas habilidades. Em breve, compartilharei repositórios aqui!
+
+## 🌱 Metas de Aprendizado
+- Aprofundar conhecimentos em **programação orientada a objetos**.
+- Explorar frameworks.
+- Contribuir para projetos open-source.
+
+## 📫 Como me encontrar
+- **E-mail:** [engelmannmarcos290@gmail.com]()
+
+## ⚡ Curiosidade
+Sou apaixonado por natureza! 
+
+---
+
+⭐ **Bem-vindo ao meu perfil!** Sinta-se à vontade para explorar e entrar em contato.
