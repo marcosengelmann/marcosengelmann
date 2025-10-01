@@ -2,7 +2,7 @@
 
 ## 🎓 Sobre Mim
 - **Nome:** Marcos Engelmann
-- **Formação:** Estudante de **Análise e Desenvolvimento de Sistemas** (1° Período)
+- **Formação:** Estudante de **Análise e Desenvolvimento de Sistemas** (2° Período)
 - **Objetivo:** Aprender e evoluir constantemente no mundo da programação e desenvolvimento de software.
 
 ## 🚀 Habilidades em Desenvolvimento
