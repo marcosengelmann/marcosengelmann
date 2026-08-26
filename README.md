@@ -2,20 +2,11 @@
 
 ## 🎓 Sobre Mim
 - **Nome:** Marcos Engelmann
-- **Formação:** Estudante de **Análise e Desenvolvimento de Sistemas** (3° Período)
+- **Formação:** Estudante de **Análise e Desenvolvimento de Sistemas** (4° Período)
 - **Objetivo:** Aprender e evoluir constantemente no mundo da programação e desenvolvimento de software.
-
-## 🚀 Habilidades em Desenvolvimento
-Atualmente estou estudando e me familiarizando com as seguintes tecnologias:
-- **Linguagens:** `JavaScript`, `TypeScript`
-- **Front-end:** `HTML`, `CSS`
-- **Ferramentas:** `Git`, `GitHub`, `VS Code`
-
-## 🚀 Tecnologias que Uso
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,ts)](https://skillicons.dev)
   
 ## 📚 Projetos
-Estou trabalhando em projetos acadêmicos e pessoais para aprimorar minhas habilidades. Em breve, compartilharei repositórios aqui!
+Estou trabalhando em projetos acadêmicos e pessoais para aprimorar minhas habilidades. Compartilho repositórios aqui!
 
 ## 🌱 Metas de Aprendizado
 - Aprofundar conhecimentos em **programação orientada a objetos**.
